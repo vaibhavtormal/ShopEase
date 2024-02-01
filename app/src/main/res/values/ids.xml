@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView145" type="id" />
+    <item name="itemPic" type="id" />
+    <item name="starimage" type="id" />
+    <item name="ratingtxt" type="id" />
+    <item name="imagecomment" type="id" />
+    <item name="reviewtxtd" type="id" />
+    <item name="textView20" type="id" />
+    <item name="textView22" type="id" />
+    <item name="textView23" type="id" />
+    <item name="textView24" type="id" />
+    <item name="imageView13" type="id" />
+    <item name="imageView14" type="id" />
+    <item name="imageView15" type="id" />
+    <item name="FeeEach_iten" type="id" />
+    <item name="totalEach_Item" type="id" />
+    <item name="minusCartBtn" type="id" />
+</resources>
